@@ -1,4 +1,3 @@
-`valentine{0mG_your3_so_sc414ble}`
 
   <details>
   <summary> x1 attributes </summary>
@@ -672,3 +671,6 @@ Once you get all the x1 attributes, look at the last digit of every line. It sta
 `011000011011011000111101111111110011101111111010111100100110011101111111100111101111101111111100111100011011010001100010110100110001011011001100101`
 
 Using this string we can decrypt it with a website like [cyberchef.org](http://cyberchef.org). We also need to change the byte length to 7. The resulting string is `0mG_your3_so_sc414ble`.
+
+`valentine{0mG_your3_so_sc414ble}`
+
