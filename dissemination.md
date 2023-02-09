@@ -9,7 +9,7 @@ replit file, which means there must be the source code there. Looking
 around, we finally see the username in pyproject.toml. We use this to find 
 the user at Replit, and see the source code. We find the main script, 
 which takes in a number. 
-3. Going back to the file, we also run `binwalk -dd=".*" disseminate.png` 
+3. Going back to the file, we also run `binwalk --dd=".*" disseminate.png` 
 on it to extract any hidden files/folders. 
 4. We did, and found two important files, a picture of cats with numbers 
 at the bottom and a password-protected file. We use this number and use 
