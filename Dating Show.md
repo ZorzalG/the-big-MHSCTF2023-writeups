@@ -1,5 +1,5 @@
 
-To solve this we can get the 4 numbers (people) that will try to match with us. To do this we will use the decrypt function in bfv (see code).
+To solve this we can get the 4 numbers (people) that will try to match with us. To do this we will use the decrypt function in bfv (see code). We will go through all numbers of a secret key and once we decrypt and encrypt and get the same output we know that is a working secret key.
 
 <details>
   <summary> Code </summary>
